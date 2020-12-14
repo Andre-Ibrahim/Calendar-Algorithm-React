@@ -1,0 +1,11 @@
+
+.OneInterval{
+  float: left;
+  position: relative;
+  border-width: 0em;
+  border-top: 0;
+  border-bottom: 0;
+  height: 50px;
+  width: 50px;
+  background-color: green;
+}
